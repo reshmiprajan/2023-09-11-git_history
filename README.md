@@ -2,4 +2,6 @@
 Example
 # First edit for commit
 - add <FILENAMES> :Adding filename to the staging area
-- commit -m "MESSAGE"
+- commit -m "MESSAGE" Commit with a message
+- push <Where> <What> :pushes the history /commits from the specified brach
+-pull <WHERE> <WHAT>
