@@ -4,4 +4,6 @@ Example
 - add <FILENAMES> :Adding filename to the staging area
 - commit -m "MESSAGE" Commit with a message
 - push <Where> <What> :pushes the history /commits from the specified brach
--pull <WHERE> <WHAT>
+-pull <WHERE> <WHAT>  pulls updates to local repo
+-git log :gets the logs  
+log --oneline : Shows the log  in condenced format
