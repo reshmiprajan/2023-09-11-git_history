@@ -7,3 +7,5 @@ Example
 -pull <WHERE> <WHAT>  pulls updates to local repo
 -git log :gets the logs  
 log --oneline : Shows the log  in condenced format
+
+diff: shows you the difference between the original files comitted
